@@ -1,4 +1,4 @@
-# Heart Health Chatbot (FastAPI Version)
+# Health Chatbot (FastAPI Version)
 
 A web-based chatbot that provides information about heart health using the Gemini AI model from Google, built with FastAPI.
 
@@ -76,7 +76,7 @@ heart-health-chatbot/
 
 ## How to Use
 
-1. Type your heart health question in the text area
+1. Type your health question in the text area
 2. Press Enter or click the send button
 3. The chatbot will respond with relevant information
 4. Continue the conversation as needed
@@ -100,4 +100,5 @@ heart-health-chatbot/
 - Automatic API documentation with Swagger UI
 - WebSocket support (for potential real-time features)
 - Asynchronous request handling
+
 - Type hints throughout the codebase
